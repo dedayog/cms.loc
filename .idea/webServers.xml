@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2d6a8b7b-c62a-430e-9f48-ce1df7513f79" name="ng.test" url="http://ng.test">
+        <fileTransfer port="0" mountedRoot="C:\OSPanel\domains\ng.test" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
